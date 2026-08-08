@@ -1,35 +1,50 @@
+<div align="center">
+
+<img src="./banner.png" alt="Banner de Valentina" width="100%">
+
+<br>
+
 # ¡Hola! Soy Valentina 👋
 
-🎓 **Estudiante de 4.º año de Licenciatura en Sistemas de Información**
-📜 **Analista Programadora Universitaria** — título intermedio
+### 🎓 Estudiante de 4.º año de Licenciatura en Sistemas de Información
 
-Estudiante de la **Universidad Nacional del Nordeste (UNNE)**, actualmente cursando el cuarto año de la Licenciatura en Sistemas de Información.
+**Analista Programadora Universitaria** · Título intermedio
 
-Durante mi formación académica he desarrollado proyectos grupales y personales que me permitieron adquirir experiencia en programación, bases de datos, análisis y diseño de sistemas y fundamentos de lenguajes de programación.
+🇦🇷 Universidad Nacional del Nordeste · UNNE
 
-Me interesa seguir aprendiendo, desarrollar nuevos proyectos y transformar los conocimientos adquiridos durante la carrera en soluciones concretas.
+</div>
+
+---
+
+## 💜 Sobre mí
+
+Soy estudiante de **Licenciatura en Sistemas de Información** y actualmente curso el cuarto año de la carrera.
+
+Durante mi formación académica desarrollé proyectos grupales que me permitieron adquirir experiencia en **programación, bases de datos, análisis y diseño de sistemas y fundamentos de lenguajes de programación**.
+
+Me gusta aprender a través de proyectos, seguir explorando nuevas tecnologías y transformar los conocimientos adquiridos en soluciones concretas.
 
 ---
 
 ## 🛠️ Tecnologías y conocimientos
 
-**Lenguajes**
+### 💻 Lenguajes
 
-`Python` · `C#` · `PHP` · `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,php,mysql" />
+</p>
 
-**Herramientas**
+### 🌐 Desarrollo y herramientas
 
-`Visual Studio` · `Git` · `GitHub`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,visualstudio" />
+</p>
 
-**Desarrollo web**
-
-`HTML` · `CSS`
-
-**Análisis y diseño**
+### 📐 Análisis y diseño
 
 `UML` · `Modelado de sistemas` · `Bases de datos`
 
-**Conceptos**
+### 🧠 Conceptos
 
 `Expresiones regulares` · `Gramáticas` · `Análisis léxico` · `Análisis sintáctico` · `LL(1)` · `AST`
 
@@ -37,65 +52,96 @@ Me interesa seguir aprendiendo, desarrollar nuevos proyectos y transformar los c
 
 ## 🚀 Proyectos destacados
 
-### 🚌 UniVia
+<table>
+<tr>
 
-**UniVia** es una plataforma orientada a compartir y consultar material académico, como apuntes, libros y otros recursos de estudio.
+<td width="50%" valign="top">
 
-Proyecto grupal desarrollado en el marco de **Ingeniería de Software II**, donde implementamos funcionalidades para:
+### :books: UniVia
 
-* 🔎 Buscar materiales académicos
-* 📤 Subir materiales
-* 📥 Descargar materiales
+Plataforma orientada a compartir y consultar **material académico**, como apuntes, libros y otros recursos de estudio.
 
-**Tecnologías:** C# · SQL · Visual Studio
+Proyecto grupal desarrollado en **Ingeniería de Software II**.
 
-[Ver proyecto →](#)
+**Funcionalidades principales:**
 
----
+- 🔎 Buscar materiales
+- 📤 Subir materiales
+- 📥 Descargar materiales
+
+**Tecnologías**
+
+`C#` · `SQL` · `Visual Studio`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌱 Analizador LCR
 
-**LCR (Lenguaje de Configuración de Riego)** es un proyecto grupal desarrollado como parte de una materia de la Licenciatura en Sistemas de Información.
+**Lenguaje de Configuración de Riego**
 
-El proyecto consistió en diseñar e implementar un **analizador léxico-sintáctico** para un lenguaje de configuración de riego, trabajando con gramáticas libres de contexto y un parser **LL(1) mediante descenso recursivo**.
+Proyecto grupal desarrollado como parte de la Licenciatura en Sistemas de Información.
 
-El analizador permite reconocer y validar las instrucciones definidas por el lenguaje y construir una representación mediante un **Árbol de Sintaxis Abstracta (AST)**.
+Consiste en el diseño e implementación de un **analizador léxico-sintáctico** para un lenguaje de configuración.
 
-**Tecnologías y conceptos:** Python · Visual Studio · Expresiones regulares · Gramáticas · Análisis léxico · Análisis sintáctico · LL(1) · AST
+**Incluye:**
 
-[Ver proyecto →](#)
+- 🔤 Análisis léxico
+- 📖 Gramáticas
+- 🔄 Parser LL(1)
+- 🌳 Construcción de AST
+
+**Tecnologías**
+
+`Python` · `Visual Studio` · `re`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## :bulb: Actualmente aprendiendo
+
+Continuando mi formación mediante proyectos académicos, práctica y aprendizaje constante.
+
+📱 **Proyecto personal en exploración**
+
+Estoy comenzando a desarrollar la idea de una **aplicación móvil educativa orientada al aprendizaje de la lectura infantil**, con funcionalidades relacionadas con el reconocimiento de letras y el acompañamiento del proceso de aprendizaje.
+
+> Este proyecto se encuentra en una etapa inicial y se irá actualizando a medida que avance su desarrollo.
 
 ---
 
 ## 🎓 Formación
 
-**Licenciatura en Sistemas de Información**
-Universidad Nacional del Nordeste (UNNE)
-**4.º año — En curso**
+**Licenciatura en Sistemas de Información**  
+Universidad Nacional del Nordeste · UNNE  
+**4.º año · En curso**
 
-**Analista Programadora Universitaria**
+**Analista Programadora Universitaria**  
 Título intermedio de la Licenciatura en Sistemas de Información
-
----
-
-## 🌱 Actualmente aprendiendo
-
-Continuando mi formación en distintas áreas de la informática mediante proyectos académicos, práctica y aprendizaje constante.
-
-> *Esta sección se actualizará a medida que defina las áreas en las que quiero especializarme.*
 
 ---
 
 ## 📫 Contacto
 
-💻 **GitHub:** [Valentina-Benitez](https://github.com/Valentina-Benitez)
+<div align="center">
 
-🔗 **LinkedIn:** próximamente
+💻 **GitHub**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Valentina--Benitez-181717?style=for-the-badge&logo=github)](https://github.com/Valentina-Benitez)
+
+🔗 **LinkedIn**
+
+*Próximamente*
+
+<br>
 
 ---
 
-<p align="center">
-  Gracias por visitar mi perfil 💜
-</p>
+### ✨ Aprender · Crear · Resolver · Compartir
 
-
+</div>
