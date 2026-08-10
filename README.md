@@ -77,24 +77,24 @@ Proyecto grupal desarrollado en **Ingeniería de Software II**.
 
 <td width="50%" valign="top">
 
-### 🌱 Analizador LCR
+### 🍽️ Sistema de Gestión para Bar
 
-**Lenguaje de Configuración de Riego**
+**Aplicación de escritorio para la gestión de un bar de comidas**
 
-Proyecto grupal desarrollado como parte de la Licenciatura en Sistemas de Información.
+Proyecto desarrollado como parte de la Licenciatura en Sistemas de Información.
 
-Consiste en el diseño e implementación de un **analizador léxico-sintáctico** para un lenguaje de configuración.
+Consiste en una aplicación de escritorio orientada a la **gestión de productos, pedidos y operaciones del bar**, buscando facilitar la organización y el manejo de la información.
 
 **Incluye:**
 
-- 🔤 Análisis léxico
-- 📖 Gramáticas
-- 🔄 Parser LL(1)
-- 🌳 Construcción de AST
+* 📋 Gestión de productos y pedidos
+* 🧾 Registro y consulta de información
+* 🖥️ Interfaz de escritorio
+* 🗄️ Gestión y almacenamiento de datos
 
 **Tecnologías**
 
-`Python` · `Visual Studio` · `re`
+`.NET` · `Visual Studio` · `SQL Server`
 
 </td>
 
