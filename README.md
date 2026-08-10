@@ -142,6 +142,4 @@ Título intermedio de la Licenciatura en Sistemas de Información
 
 ---
 
-### ✨ Aprender · Crear · Resolver · Compartir
-
 </div>
